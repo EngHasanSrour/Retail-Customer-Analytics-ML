@@ -10,5 +10,5 @@ This project implements a complete, production-style machine learning workflow t
 * **Unsupervised Clustering:**, Determined an optimal group threshold ($k=3$) using a pipeline-driven Elbow Method. Segmented the market into distinct behavioral personas (Affluent Power Spenders, Mature Budget Families, and Younger Starters) mapped visually via 2D Principal Component Analysis (PCA).
 
 ## Video Walkthrough
-You can view the 3-5 minute presentation video walkthrough of this project here:
+You can view the 5 minute presentation video walkthrough of this project here:
 [Watch the Project Presentation Video on Google Drive] (https://drive.google.com/file/d/1HObiFHvF0YMakMdf_mHOqGfIDWBqM7Rc/view?usp=sharing)
